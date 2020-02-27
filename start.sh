@@ -7,7 +7,7 @@ export LOCAL_TARGET_SERVER_PORT=25000
 export LOCAL_WORKSPACE=./
 
 export LOCAL_VERSION_BOOTSTRAP=1.70.17-initial-client-prod #module @nebulario/tunnel-local-boot-graph
-export LOCAL_VERSION_GRAPH=1.70.10-initial-client-prod #module repoflow/tunnel-local-graph-container
+export LOCAL_VERSION_GRAPH=1.70.11-initial-client-prod #module repoflow/tunnel-local-graph-container
 export LOCAL_VERSION_WEB=1.70.8-initial-client-prod #module repoflow/tunnel-local-web-container
 export LOCAL_VERSION_WORKER=1.70.4-initial-client-prod #module repoflow/tunnel-local-worker-graph-container
 
